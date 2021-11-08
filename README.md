@@ -22,5 +22,5 @@
 
 
 #### Http Responce
-Server response RGBA value in JSON format For example:  
-  {"hex_code":"7e2b9bff"}
+Server response RGBA value in JSON format For example:
+{"hex_code":"7e2b9bff"}
