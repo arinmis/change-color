@@ -1,15 +1,20 @@
 # change-color
 ### Flutter app 
 
-![flutter_02](https://user-images.githubusercontent.co
-![flutter_03](https://user-images.githubusercontent.com/56651041/140813185-04a546db-e7dd-4b76-babd-f802d8937550.png)
-m/56651041/140813173-2fa4ccde-97a3-4143-8f5d-4bb50d1bad07.png)
-![flutter_01](https://user-images.githubusercontent.com/56651041/140813167-22aad867-e6ec-48ed-96e1-3f0e4d142a75.png)
-36-46c9-87b8-ddfe877f8ea8.png)
-### Flask Server 
-![col1](https://user-images.githubusercontent.com/56651041/140813146-4d79ba8a-13f8-4761-b464-5f2fcdd0e950.png)
-![col-2](https://user-images.githubusercontent.com/56651041/140813152-ac201254-a5fa-43ae-9cf9-ebde4cbb588e.png)
-![col-3](https://user-images.githubusercontent.com/56651041/140813157-cacb1ebe-4a
+<img src="https://user-images.githubusercontent.com/56651041/140813903-ae09af18-cf8e-4e8f-8bef-4359767b4b13.png" alt="drawing" width="200"/>
+![flutter_01](https://user-images.githubusercontent.com/56651041/140813903-ae09af18-cf8e-4e8f-8bef-4359767b4b13.png)
+
+![flutter_02](https://user-images.githubusercontent.com/56651041/140813912-c39c8916-7e16-45f5-b95b-1c37a0dd1a8e.png)
+
+![flutter_03](https://user-images.githubusercontent.com/56651041/140813921-271424b1-b4b9-4086-997e-4766410f40bd.png)
+
+![col1](https://user-images.githubusercontent.com/56651041/140813937-865dfbac-5392-4d8f-8a7f-4ebcac17ba08.png)
+
+![col-2](https://user-images.githubusercontent.com/56651041/140813963-b3fe598b-ee78-4af8-8fba-fd635600784a.png)
+
+![col-3](https://user-images.githubusercontent.com/56651041/140813974-8f1fcdfc-8631-4386-a103-c14ae33d8559.png)
+
+
 #### Http Responce
 Server response RGBA value in JSON format For example:  
   {"hex_code":"7e2b9bff"}
