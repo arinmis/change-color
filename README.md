@@ -1,5 +1,5 @@
 # change-color
-### Flutter app 
+### Flutter app & Flask server
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56651041/140813903-ae09af18-cf8e-4e8f-8bef-4359767b4b13.png" alt="drawing" height="600"/>
