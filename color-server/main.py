@@ -14,7 +14,7 @@ def create_color():
         hex_digit = str(hex(dec))[2:] # clean '0x' part 
         color_code += hex_digit 
     ## default opacity is ff
-    color_code += "ff"
+    color_code = "ff" + color_code
     return color_code
 
 @app.route("/")
