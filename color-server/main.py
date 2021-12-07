@@ -8,13 +8,12 @@ app = Flask(__name__)
 # example: red green blue opacity
 #     hex: ff  ff    00   ff 
 def create_color():
-    color_code = ""
+    ## default opacity is ff
+    color_code = "ff"
     for _ in range(6): 
         dec = random.randint(0, 15) # generate random integer 
         hex_digit = str(hex(dec))[2:] # clean '0x' part 
-        color_code += hex_digit 
-    ## default opacity is ff
-    color_code = "ff" + color_code
+        color_code += hex_digit   
     return color_code
 
 @app.route("/")
